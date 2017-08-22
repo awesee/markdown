@@ -1,4 +1,5 @@
 # [Markdown](https://openset.github.io/Markdown/)
+Markdown is a lightweight markup language with plain text formatting syntax.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
