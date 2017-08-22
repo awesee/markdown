@@ -1,4 +1,5 @@
 # [Markdown](https://openset.github.io/Markdown/)
+Markdown is a lightweight markup language with plain text formatting syntax.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -119,4 +120,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
