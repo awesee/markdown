@@ -104,11 +104,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Sandy</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1970</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>China</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
