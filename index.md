@@ -1,7 +1,7 @@
 # [Markdown](https://openset.github.io/Markdown/ "Markdown 指导")
 Markdown is a lightweight markup language with plain text formatting syntax.
 
-## [Syntax](https://daringfireball.net/projects/markdown/syntax "Markdown 语法"){:target="syntax"}
+## [Syntax](https://daringfireball.net/projects/markdown/syntax "Markdown 语法"){:target="syntax_md"}
 
 ## [Online Markdown Web Form](https://daringfireball.net/projects/markdown/dingus){:target="_blank"}
 
