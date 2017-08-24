@@ -1,7 +1,7 @@
 # [Markdown](https://openset.github.io/Markdown/)
 Markdown is a lightweight markup language with plain text formatting syntax.
 
-# [Syntax](https://daringfireball.net/projects/markdown/syntax)
+## [Syntax](https://daringfireball.net/projects/markdown/syntax)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
