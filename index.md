@@ -1,7 +1,7 @@
 # [Markdown](https://openset.github.io/Markdown/){:target='_blank'}
 Markdown is a lightweight markup language with plain text formatting syntax.
 
-## [Syntax](https://daringfireball.net/projects/markdown/syntax){:target='_blank'}
+## [Syntax](https://daringfireball.net/projects/markdown/syntax?target=_blank&id=syn&name=syntax&classes=syntax,link)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
